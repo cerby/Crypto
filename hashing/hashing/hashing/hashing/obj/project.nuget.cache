@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aElKvMS8CQdjCqWPTPPtvJa9yv9goa3KSdWvzltZrxhHqkLx7HfJenXL7l5cahAkzkGFtQho14nGzNyLCCDXNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cerbe\\Dropbox\\PBA IT 1 sem\\intro\\hashing\\hashing\\hashing\\hashing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cerbe\\.nuget\\packages\\bcrypt.net-next\\4.0.0\\bcrypt.net-next.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
