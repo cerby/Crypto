@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cerbe\\Dropbox\\PBA IT 1 sem\\intro\\hashing\\hashing\\hashing\\hashing.csproj": {}
+    "C:\\Users\\cerbe\\Documents\\GitHub\\Crypto\\hashing\\hashing\\hashing\\hashing\\hashing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cerbe\\Dropbox\\PBA IT 1 sem\\intro\\hashing\\hashing\\hashing\\hashing.csproj": {
+    "C:\\Users\\cerbe\\Documents\\GitHub\\Crypto\\hashing\\hashing\\hashing\\hashing\\hashing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cerbe\\Dropbox\\PBA IT 1 sem\\intro\\hashing\\hashing\\hashing\\hashing.csproj",
+        "projectUniqueName": "C:\\Users\\cerbe\\Documents\\GitHub\\Crypto\\hashing\\hashing\\hashing\\hashing\\hashing.csproj",
         "projectName": "hashing",
-        "projectPath": "C:\\Users\\cerbe\\Dropbox\\PBA IT 1 sem\\intro\\hashing\\hashing\\hashing\\hashing.csproj",
+        "projectPath": "C:\\Users\\cerbe\\Documents\\GitHub\\Crypto\\hashing\\hashing\\hashing\\hashing\\hashing.csproj",
         "packagesPath": "C:\\Users\\cerbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cerbe\\Dropbox\\PBA IT 1 sem\\intro\\hashing\\hashing\\hashing\\obj\\",
+        "outputPath": "C:\\Users\\cerbe\\Documents\\GitHub\\Crypto\\hashing\\hashing\\hashing\\hashing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cerbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
